@@ -1,4 +1,6 @@
 ## Desafio 1 - Teclado Matricial:
+Controle de LED RGB por meio de um teclado matricial.
+
   ✓ Pressionando as teclas 1, 4, 7 e “*” acenda o Led Vermelho;
   
   ✓ Pressionando as teclas 2, 5, 8 e 0 acenda o Led Verde;
