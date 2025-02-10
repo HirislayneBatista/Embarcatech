@@ -26,3 +26,6 @@ entrar em um modo de bloqueio temporário, desativando o sistema por alguns segu
 - Função de Validação de Senha: Compara a senha digitada com a senha correta.
 
 - Função de Bloqueio Temporário: Impede novas entradas por um determinado tempo após três tentativas incorretas.
+
+## Exercicio Unidade 4:
+[Lista Unidade 4](Lista de Exercícios Unidade 4 - Capitulos 5 a 8 .pdf)
