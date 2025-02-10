@@ -28,4 +28,4 @@ entrar em um modo de bloqueio temporário, desativando o sistema por alguns segu
 - Função de Bloqueio Temporário: Impede novas entradas por um determinado tempo após três tentativas incorretas.
 
 ## Exercicio Unidade 4:
-[Lista Unidade 4](Lista de Exercícios Unidade 4 - Capitulos 5 a 8 .pdf)
+[Acesso a Lista Unidade 4](https://github.com/HirislayneBatista/Embarcatech/blob/55f51f3d392eef2079d4853b5caf4a918aa3d4f7/Lista%20de%20Exerc%C3%ADcios%20Unidade%204%20-%20Capitulos%205%20a%208%20.pdf) 
